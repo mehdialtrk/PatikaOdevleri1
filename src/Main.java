@@ -5,7 +5,9 @@ public class Main {
     ortalamalarini hesaplayip ekrana bastirilan programi yazin.*/
 
     /*Ayni program içerisinde koşullu ifadeler kullanilarak, eğer kullanicinin ortalamasi 60'dan buyuk ise ekrana
-    "Sinifi Gecti" , küçük ise "Sinifta Kaldi" yazsin.*/
+    "Sinifi Gecti" , küçük ise "Sinifta Kaldi" yazsin.    ***İf, else if kullanılmayacak**** */
+
+
 
 
     public static void main(String[] args) {
